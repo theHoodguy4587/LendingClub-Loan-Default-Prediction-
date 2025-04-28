@@ -50,6 +50,19 @@ We build a **binary classification model** using **Keras** and **TensorFlow**, p
 | mort_acc | Number of mortgage accounts |
 | pub_rec_bankruptcies | Number of public record bankruptcies |
 
+## 📂 Dataset Access
+Due to GitHub file size restrictions, the full LendingClub dataset is not stored directly in this repository.
+
+**Please download the dataset manually** from this Google Drive link:
+
+👉 [Download LendingClub Dataset](https://drive.google.com/file/d/1UZ_2jdE6tX43mFAtI0BfZ-CCq1tcYz13/view?usp=drive_link)
+👉 [Download LendingClub info Dataset](https://drive.google.com/file/d/19Dvya2RRY8ZVQRWnit46OXcTxdOqhClr/view?usp=drive_link)
+
+
+After downloading:
+- Save the `.csv` file into the project folder.
+- Make sure the file path matches the code (or modify the path accordingly).
+
 ## Project Workflow
 1. **Data Preprocessing** 🧹
    - Handling missing values
